@@ -1,0 +1,16 @@
+In addition to the AGPL, the following additional provisions are required to be followed as part of the license:
+
+The following restrictions are imposed on this project and if they are violated the AI so trained, used, etc must be made fully open source based on the AGPL so that it's full model source code, all weights, all training data, full end to end everything, is made available under the AGPL v3+ or whatever the most recent version of the AGPL is.
+
+So:
+- AI may not be used on this project unless the AI is modern AGPL.
+
+- AI may not read or consume this project or it must be made modern AGPL.
+
+- This source code must not be used for AI training or be used as part of an AI training data set in any way or that AI must be made modern AGPL.
+
+- Any Violations of the AI provisions above will require that the AI source code, all of its training models, all of its inference, its data set, and everything about it will then become AGPL and need to be fully open sourced under the AGPL.
+
+- If a company is found to use this for training data and does not respect the terms of the AGPL or the above, then they have formally agreed that this is a violation of Intellectual property law and. they formally agree that they are required to compensate me financially by granting me 100 per cent of their last ten years profits in due compensation, in addition to making the AI, its model weights, its full source code, its full training set, Everything needed to recreate it from scratch and fully build the model, public.
+
+This means for example that if chatgpt wants to use this code for training data, then openAI must make that model fully open source under the Agpl and follow the above agreement.
